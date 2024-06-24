@@ -8,6 +8,7 @@ The dataset used in this project is the Sonar dataset, which contains 208 sample
 ## Project Steps
 ### 1. Data Preprocessing
 Loading the Dataset: The dataset is loaded into a Pandas DataFrame.
+
 Exploratory Data Analysis (EDA): EDA is performed to understand the data distribution, check for missing values, and visualize the features.
 ### 2. Splitting the Dataset
 The dataset is split into training and testing sets using an 80-20 split, providing 166 samples for training and 42 samples for testing.
